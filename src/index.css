@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.fa-shop{
+  color: aliceblue;
+  /* margin-top: 4.5%; */
+  cursor: pointer;
+}
+.fa-search{
+  color: aliceblue;
+  /* margin-top: 4.5%; */
+  cursor: pointer;
+  margin-right: 2%;
+}
+.img-product{
+  /* height: 190%; */
+    height: 10vw;
+    object-fit: cover;
+}
+.title-card{
+  font-size: small!important;
+}
+.search-input{
+  height: 10%!important;
+}
